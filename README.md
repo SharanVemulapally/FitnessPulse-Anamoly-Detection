@@ -46,17 +46,6 @@ The objective of this milestone is to design and implement an interactive dashbo
 - Summary metrics offer quick health interpretation.
 - Cleaned data ensures reliable analytics.
 
----
-
-## 📸 Screenshots
-
-| Feature | Screenshot |
-|-------|-----------|
-| Dashboard UI | `Dashboard.png` |
-| Visualizations | `Visualizations.png` |
-| Summary Section | `Summary.png` |
-
-| Data Download | 
 
 ---
 
